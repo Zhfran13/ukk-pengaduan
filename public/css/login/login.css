@@ -1,0 +1,26 @@
+:root {
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+#wave {
+    position: absolute;
+    z-index: -999;
+}
+
+.form-login {
+    transform: translateY(10vh);
+    margin-bottom: 10em;
+}
+
+.card {
+    border: none;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.345);
+}
+
+.alert {
+    /* margin-top: 90px; */
+}

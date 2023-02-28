@@ -1,0 +1,14 @@
+div.welcome-row {
+    padding: 9em 0em 10em;
+    background-color: #0D163C;
+    color: white;
+}
+
+.card img {
+    height: 12em;
+    object-fit: cover;
+    object-position: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    /* box-shadow: inset 0px 0px 20px rgba(247, 28, 28, 0.539); */
+}

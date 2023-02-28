@@ -1,0 +1,29 @@
+nav.navbar {
+    background-color: #F5F7F9;
+    width: 95%;
+    border-radius: 20px;
+    z-index: 1;
+    transition: all .5s ease-out;
+}
+
+nav.navbar li a {
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+
+nav.navbar li a:hover,
+nav.navbar li a:focus {
+    color: rgb(204, 204, 204)
+}
+
+nav.navbar li a.active.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+nav.nav-colored a {
+    color: red;
+}
+
+nav button.navbar-toggler {
+    background: white;
+}

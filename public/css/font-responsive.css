@@ -1,0 +1,15 @@
+.text-responsive {
+    font-size: calc(.9vw + .9vh);
+}
+
+@media screen and (max-width: 992px) {
+    .text-responsive {
+        font-size: calc(30% + 1vw + 1vh);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .text-responsive {
+        font-size: calc(35% + 1vw + 1vh);
+    }
+}

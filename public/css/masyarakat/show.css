@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+.body-section img {
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Aan was here */
